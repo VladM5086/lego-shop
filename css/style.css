@@ -317,3 +317,10 @@ iframe {
 .catalog-slider img{
 	width: 100%;
 }
+
+#cart-close{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
